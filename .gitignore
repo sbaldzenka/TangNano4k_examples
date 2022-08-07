@@ -10,9 +10,9 @@ gowin_arm_m3_hello_world/src/ip/gowin_pllvr_24/gowin_pllvr_24_tmp.v
 gowin_arm_m3_hello_world/src/ip/gowin_empu/temp/
 gowin_arm_m3_hello_world/src/ip/gowin_empu/gowin_empu_tmp.v
 
-gowin_arm_m3_uart/firmware_project/Debug/
-gowin_arm_m3_uart/fpga_project/impl/
-gowin_arm_m3_uart/fpga_project/src/ip/gowin_pllvr_160_40/gowin_pllvr_160_40_tmp.v
-gowin_arm_m3_uart/fpga_project/src/ip/gowin_pllvr_24/gowin_pllvr_24_tmp.v
-gowin_arm_m3_uart/fpga_project/src/ip/gowin_empu/temp/
-gowin_arm_m3_uart/fpga_project/src/ip/gowin_empu/gowin_empu_tmp.v
+gowin_arm_m3_uart/impl/
+gowin_arm_m3_uart/src/firmware/Debug/
+gowin_arm_m3_uart/src/ip/gowin_pllvr_160_40/gowin_pllvr_160_40_tmp.v
+gowin_arm_m3_uart/src/ip/gowin_pllvr_24/gowin_pllvr_24_tmp.v
+gowin_arm_m3_uart/src/ip/gowin_empu/temp/
+gowin_arm_m3_uart/src/ip/gowin_empu/gowin_empu_tmp.v

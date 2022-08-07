@@ -35,13 +35,13 @@ module gowin_arm_m3_hello_world_top
         .clkin   ( clk_24  )  //input  clkin
     );
 
-	gowin_empu_m3 gowin_empu_m3_inst
-	(
-		.sys_clk   ( clk_40     ), //input         sys_clk
+    gowin_empu_m3 gowin_empu_m3_inst
+    (
+        .sys_clk   ( clk_40     ), //input         sys_clk
         .gpio      ( gpio_io    ), //inout  [15:0] gpio
-		.uart0_rxd ( uart_rxd_i ), //input         uart0_rxd
-		.uart0_txd ( uart_txd_o ), //output        uart0_txd
-		.reset_n   ( reset_n    )  //input         reset_n
-	);
+        .uart0_rxd ( uart_rxd_i ), //input         uart0_rxd
+        .uart0_txd ( uart_txd_o ), //output        uart0_txd
+        .reset_n   ( reset_n    )  //input         reset_n
+    );
 
 endmodule
