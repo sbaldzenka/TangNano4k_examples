@@ -6,7 +6,7 @@
     <Device name="GW1NSR-4C" pn="GW1NSR-LV4CQN48PC6/I5">gw1nsr4c-000</Device>
     <FileList>
         <File path="src/hdl/led_blink.v" type="file.verilog" enable="1"/>
-        <File path="src/cst/gowin_led_blink.cst" type="file.cst" enable="1"/>
-        <File path="src/sdc/gowin_led_blink.sdc" type="file.sdc" enable="1"/>
+        <File path="src/constraints/gowin_led_blink.cst" type="file.cst" enable="1"/>
+        <File path="src/constraints/gowin_led_blink.sdc" type="file.sdc" enable="1"/>
     </FileList>
 </Project>
