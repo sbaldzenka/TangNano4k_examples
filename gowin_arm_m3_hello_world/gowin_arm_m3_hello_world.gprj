@@ -9,7 +9,7 @@
         <File path="src/ip/gowin_empu/gowin_empu.v" type="file.verilog" enable="1"/>
         <File path="src/ip/gowin_pllvr_160_40/gowin_pllvr_160_40.v" type="file.verilog" enable="1"/>
         <File path="src/ip/gowin_pllvr_24/gowin_pllvr_24.v" type="file.verilog" enable="1"/>
-        <File path="src/cst/fpga_project.cst" type="file.cst" enable="1"/>
-        <File path="src/sdc/fpga_project.sdc" type="file.sdc" enable="1"/>
+        <File path="src/constraints/gowin_arm_m3_hello_world.cst" type="file.cst" enable="1"/>
+        <File path="src/constraints/gowin_arm_m3_hello_world.sdc" type="file.sdc" enable="1"/>
     </FileList>
 </Project>

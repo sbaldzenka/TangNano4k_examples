@@ -1,3 +1,6 @@
+#author: sergey boldenko
+#data  : 06.08.2022
+
 set_device GW1NSR-LV4CQN48PC6/I5 -name GW1NSR-4C
 
 add_file src/hdl/led_blink.v
